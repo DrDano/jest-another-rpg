@@ -1,0 +1,20 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "A role-playing game you play in your terminal!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrDano/jest-another-rpg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrDano/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/DrDano/jest-another-rpg#readme"
+}
